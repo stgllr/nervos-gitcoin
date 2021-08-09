@@ -11,3 +11,5 @@ Gitcoin: 3) Issue A Smart Contract Call To The Deployed Smart Contract
 
 Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 
+Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
+
