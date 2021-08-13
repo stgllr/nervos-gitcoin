@@ -13,3 +13,8 @@ Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 
 Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
 
+Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
+
+Gitcoin: 7) Port An Existing Ethereum DApp To Polyjuice
+
+
