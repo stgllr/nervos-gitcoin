@@ -17,4 +17,7 @@ Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
 
 Gitcoin: 7) Port An Existing Ethereum DApp To Polyjuice
 
+Gitcoin: 8) Modify The Ported DApp So It Supports Ethereum Assets Via Force Bridge
+
+
 
