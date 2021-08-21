@@ -20,7 +20,7 @@ Gitcoin: 8) Modify The Ported DApp So It Supports Ethereum Assets Via Force Brid
 
 Gitcoin: 9) Initiate Withdrawal Process From The Layer 2 Back To Layer 1
 
-10) Complete Withdrawal Process By Unlocking The Funds
+Gitcoin: 10) Complete Withdrawal Process By Unlocking The Funds
 
 
 
